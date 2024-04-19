@@ -3,8 +3,8 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernumber = process.env.OWNER_NUMBER || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",//owner name
+global.ownernumber = process.env.OWNER_NUMBER || "+256760712236",
+global.ownername = process.env.OWNER_NAME || "SadzPro",//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
@@ -32,8 +32,8 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti212 = true //auto block +212
-global.autoread_status = false //auto view status/story
+global.anti212 = false //auto block +212
+global.autoread_status = true //auto view status/story
 
 
 
